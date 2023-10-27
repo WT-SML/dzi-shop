@@ -1,0 +1,15 @@
+export const SUPPORT_FILE_TYPES = [
+	'svs',
+	'tif',
+	'dcm',
+	'vms',
+	'vmn',
+	'ndpi',
+	'scn',
+	'mrxs',
+	'tiff',
+	'svsslide',
+	'bif',
+	// 'sdpc',
+	// 'kfb',
+]
