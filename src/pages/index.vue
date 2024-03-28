@@ -468,7 +468,7 @@ onMounted(async () => {
 						}})
 					</div>
 				</template>
-				鼠标位于当前图像的实际坐标
+				鼠标在图像中的位置
 			</n-tooltip>
 		</div>
 		<!-- 网络地址弹窗 -->
